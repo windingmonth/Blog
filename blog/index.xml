@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>xy_eric_blog on Megakit</title>
+    <link>http://example.org/blog/</link>
+    <description>Recent content in xy_eric_blog on Megakit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Improve design with typography</title>
+      <link>http://example.org/posts/2022/03/09/improve-design-with-typography/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2022/03/09/improve-design-with-typography/</guid>
+      <description>Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!</description>
+    </item>
+    
+    <item>
+      <title>Connecting to the consumer</title>
+      <link>http://example.org/posts/2022/03/08/connecting-to-the-consumer/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2022/03/08/connecting-to-the-consumer/</guid>
+      <description>Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!</description>
+    </item>
+    
+    <item>
+      <title>Customer marketing strategy</title>
+      <link>http://example.org/posts/2022/03/07/customer-marketing-strategy/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2022/03/07/customer-marketing-strategy/</guid>
+      <description>Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!</description>
+    </item>
+    
+    <item>
+      <title>Helping small businesses grow</title>
+      <link>http://example.org/posts/2022/03/06/helping-small-businesses-grow/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2022/03/06/helping-small-businesses-grow/</guid>
+      <description>Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!</description>
+    </item>
+    
+  </channel>
+</rss>
